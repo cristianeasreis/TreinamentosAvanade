@@ -5,7 +5,7 @@
 const estagiario = 3000;
 const junior = 4500;
 const pleno = 6000;
-const senior = 6000;
+const senior = 7000;
 
 const salario = 4000;
 
