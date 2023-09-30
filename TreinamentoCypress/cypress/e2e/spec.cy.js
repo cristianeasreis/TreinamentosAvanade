@@ -30,15 +30,6 @@ describe('Cenários de Testes de Login', () => {
     cy.contains('button', 'Login').click()
 
   })
-
-  it('',() => {
-
-  })
-  it('',() => {
-
-  })
-
-
   
 })
 
